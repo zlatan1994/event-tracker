@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="31993b6d976121102e20bc7ef053afb9" label="Event" max_length="40" name="x_933232_event_han_event" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Event" max_length="40" name="event" type="string"/>
+    </element>
+</database>
